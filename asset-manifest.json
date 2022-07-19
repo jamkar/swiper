@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swiper/static/css/main.e33a1ba7.css",
+    "main.js": "/swiper/static/js/main.b04e0a02.js",
+    "index.html": "/swiper/index.html",
+    "main.e33a1ba7.css.map": "/swiper/static/css/main.e33a1ba7.css.map",
+    "main.b04e0a02.js.map": "/swiper/static/js/main.b04e0a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33a1ba7.css",
+    "static/js/main.b04e0a02.js"
+  ]
+}
